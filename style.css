@@ -1,0 +1,35 @@
+body {
+    background-color: #1F1F1F;
+}
+
+.first-div {
+    width: 30%;
+    height: 100px;
+    background-color: blue;
+}
+.second-div {
+    width: 30%;
+    height: 100px;
+    background-color: red;
+}
+.third-div {
+    width: 30%;
+    height: 100px;
+    background-color: green;
+}
+
+.search-results {
+    width: 600px;
+    height: 100px;
+    overflow-y: scroll;
+    border: 1px red solid;
+    background-color: red;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 5px
+}
+
+.hidden {
+    display: none;
+}

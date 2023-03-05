@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Cloud",
+        "id": "cloud",
+        "file": "seven.html"
+    },
+    {
+        "name": "Tifa",
+        "id": "tifa",
+        "file": "seven.html"
+    },
+    {
+        "name": "Barret",
+        "id": "barret",
+        "file": "seven.html"
+    },
+    {
+        "name": "Aerith",
+        "id": "aerith",
+        "file": "seven.html"
+    },
+    {
+        "name": "Squall",
+        "id": "squall",
+        "file": "eight.html"
+    },
+    {
+        "name": "Rinoa",
+        "id": "rinoa",
+        "file": "eight.html"
+    },
+    {
+        "name": "Zell",
+        "id": "zell",
+        "file": "eight.html"
+    },
+    {
+        "name": "Selphie",
+        "id": "selphie",
+        "file": "eight.html"
+    },
+    {
+        "name": "Zidane",
+        "id": "zidane",
+        "file": "nine.html"
+    },
+    {
+        "name": "Grenat",
+        "id": "grenat",
+        "file": "nine.html"
+    },
+    {
+        "name": "Steiner",
+        "id": "steiner",
+        "file": "nine.html"
+    },
+    {
+        "name": "Vivi",
+        "id": "vivi",
+        "file": "nine.html"
+    }
+]
