@@ -20,10 +20,11 @@ body {
 
 .search-results {
     width: 600px;
-    height: 100px;
+    min-height: 1rem;
+    max-height: 10rem;
     overflow-y: scroll;
-    border: 1px red solid;
-    background-color: red;
+    border: 1px black solid;
+    background-color: gray;
     position: absolute;
     display: flex;
     flex-direction: column;
